@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\repos\Eris\Crotchet" t="IncludeFlat">
+      <e p="Crotchet" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Bot" t="Include">
+          <e p="BotLogic.cs" t="Include" />
+        </e>
+        <e p="Crotchet.csproj" t="IncludeRecursive" />
+        <e p="InputSimulator" t="Include">
+          <e p="HARDWAREINPUT.cs" t="Include" />
+          <e p="INPUT.cs" t="Include" />
+          <e p="InputSimulator.cs" t="Include" />
+          <e p="InputType.cs" t="Include" />
+          <e p="KEYBDINPUT.cs" t="Include" />
+          <e p="KeyboardFlag.cs" t="Include" />
+          <e p="MouseFlag.cs" t="Include" />
+          <e p="MOUSEINPUT.cs" t="Include" />
+          <e p="MOUSEKEYBDHARDWAREINPUT.cs" t="Include" />
+          <e p="VirtualKeyCode.cs" t="Include" />
+          <e p="XButton.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Quaver" t="Include">
+          <e p="Chart" t="Include">
+            <e p="Models" t="Include">
+              <e p="Lane.cs" t="Include" />
+              <e p="Mode.cs" t="Include" />
+              <e p="ParsingStage.cs" t="Include" />
+            </e>
+            <e p="Objects" t="Include">
+              <e p="EditorLayer.cs" t="Include" />
+              <e p="HitObject.cs" t="Include" />
+              <e p="SliderVelocity.cs" t="Include" />
+              <e p="TimingPoint.cs" t="Include" />
+            </e>
+            <e p="QuaverChart.cs" t="Include" />
+          </e>
+          <e p="Exceptions" t="Include">
+            <e p="GameNotFoundException.cs" t="Include" />
+            <e p="SignatureScanReturnedNullException.cs" t="Include" />
+            <e p="UnknownHeaderTagException.cs" t="Include" />
+          </e>
+          <e p="Memory" t="Include">
+            <e p="Memory.cs" t="Include" />
+            <e p="Objects" t="Include">
+              <e p="CurrentScreenObject.cs" t="Include" />
+              <e p="GameplayAudioTimingObject.cs" t="Include" />
+              <e p="QuaverGameObject.cs" t="Include" />
+            </e>
+            <e p="Signatures.cs" t="Include" />
+          </e>
+          <e p="QuaverManager.cs" t="Include" />
+          <e p="Readme.md" t="Include" />
+        </e>
+      </e>
+      <e p="Crotchet.sln" t="IncludeFlat" />
+      <e p="MemoryLib" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="CrossPlatform" t="Include">
+          <e p="IMemoryRegion.cs" t="Include" />
+          <e p="IProcessModule.cs" t="Include" />
+          <e p="Process.cs" t="Include" />
+        </e>
+        <e p="MemoryLib.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net472" t="Include">
+              <e p="MemoryLib.AssemblyInfo.cs" t="Include" />
+            </e>
+            <e p="net48" t="Include">
+              <e p="MemoryLib.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scanning" t="Include">
+          <e p="PatternByte.cs" t="Include" />
+          <e p="PatternScanner.cs" t="Include" />
+        </e>
+        <e p="Utils.cs" t="Include" />
+        <e p="Windows" t="Include">
+          <e p="Native.cs" t="Include" />
+          <e p="NativeHelper.cs" t="Include" />
+          <e p="WindowsAllocationProtect.cs" t="Include" />
+          <e p="WindowsMemoryRegion.cs" t="Include" />
+          <e p="WindowsMemoryState.cs" t="Include" />
+          <e p="WindowsMemoryType.cs" t="Include" />
+          <e p="WindowsProcess.cs" t="Include" />
+          <e p="WindowsProcessAccessFlags.cs" t="Include" />
+          <e p="WindowsProcessModule.cs" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Azuki\.Rider2019.2\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\Azuki\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Azuki\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Crotchet.1461965227.00" t="ExcludeRecursive" />
+  </component>
+</project>

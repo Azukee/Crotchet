@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crotchet", "Crotchet\Crotchet.csproj", "{B7D2FAB5-9F15-4649-929C-CF717B835526}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryLib", "MemoryLib\MemoryLib.csproj", "{042C1F55-2FF4-4B1B-85FA-E2BDBCCCD0A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7D2FAB5-9F15-4649-929C-CF717B835526}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7D2FAB5-9F15-4649-929C-CF717B835526}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7D2FAB5-9F15-4649-929C-CF717B835526}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7D2FAB5-9F15-4649-929C-CF717B835526}.Release|Any CPU.Build.0 = Release|Any CPU
+		{042C1F55-2FF4-4B1B-85FA-E2BDBCCCD0A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{042C1F55-2FF4-4B1B-85FA-E2BDBCCCD0A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{042C1F55-2FF4-4B1B-85FA-E2BDBCCCD0A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{042C1F55-2FF4-4B1B-85FA-E2BDBCCCD0A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

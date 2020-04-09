@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <LangVersion>8</LangVersion>
+        <RootNamespace>HoLLy.Memory</RootNamespace>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+
+        <Title>MemoryLib</Title>
+        <Authors>HoLLy</Authors>
+        <PackageVersion>0.2.0</PackageVersion>
+        <TargetFrameworks>net472;net48</TargetFrameworks>
+    </PropertyGroup>
+
+</Project>
