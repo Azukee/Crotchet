@@ -7,3 +7,6 @@ A simple proof of concept Quaver Bot based upon a simple OOP memory access style
 Crotchet uses the [MemoryLib](https://github.com/Sandwich-Group/MemoryLib) programmed by [HoLLy](https://github.com/Sandwich-Group) and published under the [Sandwich Group](https://github.com/Sandwich-Group), which is licensed under the MIT license.
 
 I've slightly modified the library to work under Windows.
+
+## Status
+Crotchet was a proof of concept, and therefore won't be updated. I made it public and archived for research purposes.
